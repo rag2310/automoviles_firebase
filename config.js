@@ -7,4 +7,4 @@ var config = {
     messagingSenderId: "507038454956"
 };
 
-module.export config
+module.exports = config
